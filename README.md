@@ -1,1 +1,1 @@
-# HRD_lecture
+# HRD-Net 강의 
